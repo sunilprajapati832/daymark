@@ -12,6 +12,8 @@ On Android, open it in Chrome and tap Install if it appears, or choose Install a
 ### Desktop View (Light Mode)
 ![Graph Preview](Preview/daymark1.png)
 ![Graph Preview](Preview/daymark2.png)
+
+### Mobile View Responsive (Dark Mode)
 ![Graph Preview](app/static/images/UrbanNestWebsite3.png)
 ![Graph Preview](app/static/images/UrbanNestWebsite4.png)
 ![Graph Preview](app/static/images/UrbanNestWebsiteSignUp.png)
