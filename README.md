@@ -14,8 +14,7 @@ On Android, open it in Chrome and tap Install if it appears, or choose Install a
 ![Graph Preview](Preview/daymark2.png)
 
 ### Mobile View Responsive (Dark Mode)
-![Graph Preview](Preview/Image4.jpeg) ![Graph Preview](Preview/Image3.jpeg) ![Graph Preview](Preview/Image2.jpeg) ![Graph Preview](Preview/Image1.jpeg)
-
+<table><tr><td><img src="Preview/Image4.jpeg"></td> <td><img src="Preview/Image3.jpeg"></td> <td><img src="Preview/Image2.jpeg"></td> <td><img src="Preview/Image1.jpeg"></td></tr></table>
 
 ## What it does
 
