@@ -75,6 +75,12 @@ For Android screenshots and details, see [`ANDROID-INSTALL.md`](./ANDROID-INSTAL
 
 See the repository’s `LICENSE` file for the terms chosen by the owner. If the repository has no license file, the source remains under default copyright restrictions; GitHub’s public-repository terms still allow users to view and fork it.
 
-## Author
+## 👨‍💻 Author
 
-**Sunil Prajapati** · [LinkedIn](https://www.linkedin.com/in/sunil-prajapati832)
+**Sunil Prajapati**<br>
+M.E. Graduate | Python & Flask Developer <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832)
+
+---
+
+⭐ If you find this project valuable, feel free to star the repository and connect!
