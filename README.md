@@ -70,14 +70,14 @@ After Daymark has loaded once while online, its app shell can reopen offline. Th
 
 See the repository’s `LICENSE` file for the terms chosen by the owner. If the repository has no license file, the source remains under default copyright restrictions; GitHub’s public-repository terms still allow users to view and fork it.
 
-## Feedback and suggestions
-
-If you use Daymark, please share your review, report anything confusing or broken, and suggest features you’d like to see. You can leave feedback through the [GitHub repository](https://github.com/sunilprajapati832/daymark).
-
 ## About
 
 Daymark is built with HTML, CSS, and JavaScript by **Sunil Prajapati**<br>
 M.E. Graduate | Python & Flask Developer <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832)
+
+## Feedback and suggestions
+
+If you use Daymark, please share your review, report anything confusing or broken, and suggest features you’d like to see. You can leave feedback through the [GitHub repository](https://github.com/sunilprajapati832/daymark).
 
 ⭐ If you find this project valuable, feel free to star the repository and connect!
