@@ -5,6 +5,8 @@ Daymark is a lightweight daily planner for turning preparation into a steady rou
 🔗 **App Link**: <br>
 [![App Link](https://img.shields.io/badge/App%20Link-daymark-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sunilprajapati832.github.io/daymark/)
 
+On Android, open it in Chrome and tap Install if it appears, or choose Install app / Add to Home screen from Chrome’s menu. On iPhone, open it in Safari and choose Share → Add to Home Screen. **Apple’s instructions**
+
 ## What it does
 
 - Build a daily checklist, choose a category, and estimate task hours.
