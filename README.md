@@ -3,7 +3,7 @@
 Daymark is a lightweight daily planner for turning preparation into a steady routine. It runs in a browser on desktop and mobile, and can be installed from a secure website address as a Progressive Web App (PWA).
 
 🔗 **App Link**: <br>
-[![App Link](https://img.shields.io/badge/Live%20Website-daymark-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sunilprajapati832.github.io/daymark/)
+[![App Link](https://img.shields.io/badge/App%20Link-daymark-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sunilprajapati832.github.io/daymark/)
 
 ## What it does
 
