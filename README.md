@@ -14,11 +14,11 @@ On Android, open it in Chrome and tap Install if it appears, or choose Install a
 ![Graph Preview](Preview/daymark2.png)
 
 ### Mobile View Responsive (Dark Mode)
-![Graph Preview](app/static/images/UrbanNestWebsite3.png)
-![Graph Preview](app/static/images/UrbanNestWebsite4.png)
-![Graph Preview](app/static/images/UrbanNestWebsiteSignUp.png)
-![Graph Preview](app/static/images/UrbanNestWebsiteLogin.png)
-![Graph Preview](app/static/images/UrbanNestWebsiteApproval.png)
+![Graph Preview](Preview/Image4.jpeg)
+![Graph Preview](Preview/Image3.jpeg)
+![Graph Preview](Preview/Image2.jpeg)
+![Graph Preview](Preview/Image1.jpeg)
+
 
 ## What it does
 
