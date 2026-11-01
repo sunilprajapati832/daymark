@@ -7,6 +7,16 @@ Daymark is a lightweight daily planner for turning preparation into a steady rou
 
 On Android, open it in Chrome and tap Install if it appears, or choose Install app / Add to Home screen from Chrome’s menu. On iPhone, open it in Safari and choose Share → Add to Home Screen. **Apple’s instructions**
 
+
+## App Preview
+![Graph Preview](app/static/images/UrbanNestWebsite1.png)
+![Graph Preview](app/static/images/UrbanNestWebsite2.png)
+![Graph Preview](app/static/images/UrbanNestWebsite3.png)
+![Graph Preview](app/static/images/UrbanNestWebsite4.png)
+![Graph Preview](app/static/images/UrbanNestWebsiteSignUp.png)
+![Graph Preview](app/static/images/UrbanNestWebsiteLogin.png)
+![Graph Preview](app/static/images/UrbanNestWebsiteApproval.png)
+
 ## What it does
 
 - Build a daily checklist, choose a category, and estimate task hours.
